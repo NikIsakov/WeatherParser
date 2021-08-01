@@ -8,7 +8,6 @@ public class Model {
     private Double temp;
     private int pressure;
     private String main;
-    //private String city;
 
     @Override
     public String toString() {
